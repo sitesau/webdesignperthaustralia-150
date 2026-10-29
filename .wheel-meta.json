@@ -1,0 +1,22 @@
+{
+  "wheel_id": 500,
+  "structure": "umbrella",
+  "slug": "webdesignperthaustralia-150",
+  "project": "web-design-perth-checklist-ac5871375323765e851eda1efa8f0196e",
+  "parent_t1_ref": "webdesignperthaustralia-010",
+  "node_role": "buffer",
+  "money_target": "webdesignperthaustralia.com.au",
+  "primary_kw": "web design perth checklist",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/web-design-perth-checklist-ac5871375323765e851eda1efa8f0196e/",
+  "tier": "T2",
+  "writeback_nonce": "84fd22128826d592",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/web-design-perth-010/",
+      "anchor": "Web Design Perth: A Practical Buyer Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
